@@ -1,0 +1,14 @@
+# This file tracks properties of this Flutter project.
+version:
+  revision: 3.24.0
+  channel: stable
+
+project_type: app
+
+platforms:
+  android:
+    platform_version: 1.0.0
+  web:
+    platform_version: 1.0.0
+  windows:
+    platform_version: 1.0.0

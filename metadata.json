@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade - Pro Charts & Signals",
+  "description": "High-performance mobile-optimized trading charts with 60fps real-time data streaming, institutional indicators, Zero-Loss Capital Protection signals, and direct Android APK download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

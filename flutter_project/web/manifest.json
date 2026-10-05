@@ -1,0 +1,11 @@
+{
+  "name": "Fardeen Trading Pro",
+  "short_name": "Fardeen Trading",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07090E",
+  "theme_color": "#10B981",
+  "description": "Fardeen Institutional Trading Terminal",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
